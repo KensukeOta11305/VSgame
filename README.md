@@ -28,6 +28,12 @@ Command PromptはWindows系OSに標準搭載されているシェル「cmd.exe�
 
 総合的には、とても書きづらい言語と言わざるをえません。
 
+### JScript
+
+JScriptはECMAScript3をMicrosoftが拡張したJavaScriptの方言です。
+
+基本的にはJavaScriptそのままなのですが、ES6以降の快適な環境に慣れているとES3時代の仕様に戸惑うことになるでしょう。
+
 ### VBScript
 
 VBScriptは（おそらく）VB4.0をベースに、いくつかの機能を省略したVB系のプログラミング言語です。
