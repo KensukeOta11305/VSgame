@@ -46,6 +46,12 @@ JScriptはECMAScript3をMicrosoftが拡張したJavaScriptの方言です。
 
 基本的にはJavaScriptそのままなのですが、ES6以降の快適な環境に慣れているとES3時代の仕様に戸惑うことになるでしょう。
 
+### Kotlin
+
+KotlinはJVM言語の1つです。2011年に登場した比較的新しいプログラミング言語でもあります。
+
+時に「Better Java」とも評される、Javaを洗練・近代化した文法が特徴です。個人的にはKotlinは好きですし、今後の動向にも注目しています。
+
 ### VBScript
 
 VBScriptは（おそらく）VB4.0をベースに、いくつかの機能を省略したVB系のプログラミング言語です。
