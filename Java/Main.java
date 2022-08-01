@@ -6,8 +6,8 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     StandardIO standardIO = StandardIO.getInstance();
-    Player player = new Player(5, "Qii太郎");
-    COM com = new COM(5, "COM");
+    Player player = new Player(5, "Kensuke");
+    COM com = new COM(5, "Kensukebot");
     TurnCount turnCount = new TurnCount();
     while (player.canGame() && com.canGame()) {
       turnCount.countUp();
